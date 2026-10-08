@@ -1,0 +1,17 @@
+{
+  "name": "맞수 · 동시 공개 카드 대결",
+  "short_name": "맞수",
+  "description": "같은 카드 9장을 한 장씩 동시에 내는 1:1 카드 대결",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0E22",
+  "theme_color": "#0A0E22",
+  "lang": "ko",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
